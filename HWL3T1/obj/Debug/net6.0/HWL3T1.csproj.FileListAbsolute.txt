@@ -1,0 +1,15 @@
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\bin\Debug\net6.0\HWL3T1.exe
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\bin\Debug\net6.0\HWL3T1.deps.json
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\bin\Debug\net6.0\HWL3T1.runtimeconfig.json
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\bin\Debug\net6.0\HWL3T1.dll
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\bin\Debug\net6.0\HWL3T1.pdb
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\obj\Debug\net6.0\HWL3T1.csproj.AssemblyReference.cache
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\obj\Debug\net6.0\HWL3T1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\obj\Debug\net6.0\HWL3T1.AssemblyInfoInputs.cache
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\obj\Debug\net6.0\HWL3T1.AssemblyInfo.cs
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\obj\Debug\net6.0\HWL3T1.csproj.CoreCompileInputs.cache
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\obj\Debug\net6.0\HWL3T1.dll
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\obj\Debug\net6.0\refint\HWL3T1.dll
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\obj\Debug\net6.0\HWL3T1.pdb
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\obj\Debug\net6.0\HWL3T1.genruntimeconfig.cache
+D:\Обучение GeekBrains\1 четверть Курс 3 Знакомство с языком программирования C#\HWL3\HWL3T1\obj\Debug\net6.0\ref\HWL3T1.dll
